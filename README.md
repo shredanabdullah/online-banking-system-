@@ -1,6 +1,6 @@
 # Online-banking-system
 
-![image]()
+![image](https://i.postimg.cc/7LMLP4VP/w.jpg)
 
 
 ## 📝 Table of Contents
@@ -21,9 +21,7 @@ It contains various features :
 <br />
 3)Fund Withdrawal
 <br />
-4)Online Fund Transfer
-<br />
-5)Changing Password of Online Banking 
+4)Changing Password of Online Banking 
 
 
 ## 💻 Language <a name = "Language"></a>
@@ -31,7 +29,7 @@ It contains various features :
 ![C language](https://i.postimg.cc/JnS1qVQn/1200px-C-Programming-Language-svg.png)
 
 ## Demo 🖥️ <a name = "demo"></a>
-https://github.com/KirollosSamy/Graphics_project/assets/75990647/fd910597-fb3c-4e03-8220-f1c611b11509
+https://www.kapwing.com/videos/64b4a1600a2746001f72e9ce
 
 ## Contributors <a name = "contributors"></a>
 
