@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689558511 source:c:\users\tobi\desktop\code\c language\online_banking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
